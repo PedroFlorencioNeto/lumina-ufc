@@ -1,18 +1,14 @@
 # Lumina
 
-Uso de Visão Computacional no Apoio ao Diagnóstico de Doenças Oculares.
-
+Comparação entre Vision Transformers e Métodos Clássicos de Visão Computacional na Segmentação de Exsudatos Lipídicos em Imagens de Retinopatia Diabética.
 
 ## Sobre o Projeto
 
-Este projeto foi desenvolvido como parte da disciplina de Visão Computacional do Programa de Pós-Graduação em Ciência da Computação (PPGCC) na Universidade Federal de Santa Catarina (UFSC). O objetivo é explorar técnicas de visão computacional para auxiliar no diagnóstico de doenças oculares, aplicando métodos clássicos e modelos de Deep Learning em imagens médicas de fundoscopia.
+Este projeto foi desenvolvido como um Trabalho de Conclusão de Curso (TCC) para obtenção de título de bacharel em Engenharia Elétrica na Universidade Federal do Ceará (UFC). O objetivo é explorar técnicas de visão computacional para auxiliar no diagnóstico de Retinopatia Diabética, aplicando métodos clássicos, modelos de Deep Learning e Vision Transformers em imagens médicas de fundoscopia.
 
 ## Objetivos
 
-- Implementar um pipeline de análise de imagens oftalmológicas.
-- Utilizar técnicas de aprendizado de máquina para detectar padrões relacionados a doenças oculares.
-- Desenvolver um modelo capaz de classificar diferentes tipos de patologias oculares.
-- Avaliar a performance dos modelos e discutir seus resultados.
+- Em construção.
 
 ## Tecnologias Utilizadas
 
