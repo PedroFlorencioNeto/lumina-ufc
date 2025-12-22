@@ -1,6 +1,6 @@
 # Lumina
 
-Comparação entre Vision Transformers e Métodos Clássicos de Visão Computacional na Segmentação de Exsudatos Lipídicos em Imagens de Retinopatia Diabética.
+Comparação entre Vision Transformers e U-Net com MobileNetV2 na Segmentação de Exsudatos Lipídicos em Imagens de Retinografia
 
 ## Sobre o Projeto
 
