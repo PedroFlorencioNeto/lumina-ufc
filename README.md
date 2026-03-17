@@ -8,7 +8,10 @@ Este projeto foi desenvolvido como um Trabalho de Conclusão de Curso (TCC) para
 
 ## Objetivos
 
-- Em construção.
+- Analisar e comparar o desempenho de abordagens algorítmicas baseadas em CNN
+e ViT, do campo da Visão Computacional, na tarefa de segmentação semântica de exsudatos
+lipídicos em imagens de fundo de olho, classificando os pixels relacionados ao fundo e aos
+depósitos de lipídio.
 
 ## Tecnologias Utilizadas
 
@@ -17,27 +20,11 @@ Este projeto foi desenvolvido como um Trabalho de Conclusão de Curso (TCC) para
 - **Bibliotecas:** NumPy, Pandas, Scikit-learn, Matplotlib
 - **Ambiente de Desenvolvimento:** Jupyter Notebook
 
-## Estrutura do Projeto
-
-```
-/
-|-- data/                   # Conjunto de dados utilizado
-|-- notebooks/              # Jupyter Notebooks para experimentos
-|-- src/                    # Código-fonte do projeto
-|   |-- preprocessing.py     # Preprocessamento das imagens
-|   |-- model.py             # Definição do modelo de deep learning
-|   |-- train.py             # Script de treinamento
-|   |-- evaluate.py          # Avaliação do modelo
-|-- results/                # Resultados e modelos treinados
-|-- requirements.txt        # Dependências do projeto
-|-- README.md               # Documentação do projeto
-```
-
 ## Como Executar
 
 1. Clone o repositório:
    ```bash
-   git clone https://gitlab.com/pedroflorencio/lumina.git
+   git clone https://gitlab.com/pedroflorencio/lumina-ufc.git
    cd lumina
    ```
 
